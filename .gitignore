@@ -1,0 +1,8 @@
+# Godot specific
+.import/
+.export/
+Export/
+# General
+*.tmp
+*.DS_Store
+
