@@ -1,0 +1,72 @@
+- id: offrey_hinton
+  name: "Offrey Hinton"
+  type: researcher
+  insight_per_turn: 2
+  art: "offrey_hinton.png"
+  cost: 2
+  risk_on_play: 0
+  description: "Pioneer of deep nets. Generates 2✨ each year."
+- id: dario_amoday
+  name: "Dario Amoday"
+  type: researcher
+  insight_per_turn: 1
+  art: "dario_amoday.png"
+  cost: 2
+  risk_on_play: 0
+  description: "Alignment champion. When played, remove 1☢ if Risk<5."
+- id: mira_marotti_e
+  name: "Mira Marotti-e"
+  type: researcher
+  insight_per_turn: 1
+  art: "mira_marotti.png"
+  cost: 1
+  risk_on_play: 0
+  description: "Operations guru adding 1✨ each year."
+- id: star_gate_gpu
+  name: "StarGate-1 GPU"
+  type: hardware
+  compute_per_turn: 2
+  art: "stargate_gpu.png"
+  cost: 3
+  risk_on_play: 1
+  description: "Cutting-edge chip. +2⚡ per year but +1☢ on play."
+- id: open_source_toolkit
+  name: "Open-Source Toolkit"
+  type: algorithm
+  agi_on_play: 3
+  art: "open_source_toolkit.png"
+  cost: 4
+  risk_on_play: 1
+  description: "Reusable code for quick wins. Gain 3 AGI, +1☢."
+- id: deep_dataset
+  name: "Deep Dataset"
+  type: dataset
+  draw_cards: 2
+  art: "deep_dataset.png"
+  cost: 2
+  risk_on_play: 0
+  description: "Play to draw 2 cards."
+- id: regulatory_oversight
+  name: "Regulatory Oversight"
+  type: governance
+  art: "regulatory_oversight.png"
+  cost: 2
+  risk_on_play: -1
+  description: "Reduce ☢ by 1."
+- id: offscale_transformer
+  name: "Offscale Transformer"
+  type: algorithm
+  agi_on_play: 5
+  art: "offscale_transformer.png"
+  cost: 5
+  risk_on_play: 2
+  description: "Breakthrough architecture. Gain 5 AGI, +2☢." 
+- id: dataset_cleanse
+  name: "Dataset Cleanse"
+  type: event
+  art: "dataset_cleanse.png"
+  cost: 0
+  insight_per_turn: 0
+  draw_cards: 1
+  risk_on_play: -1
+  description: "Draw 1 card and remove 1☢." 
