@@ -1,0 +1,4 @@
+- id: turing_bombe
+  name: "Turing Bombe Replica"
+  effect: "Counts as Hardware and Algorithm"
+  slots: 1
