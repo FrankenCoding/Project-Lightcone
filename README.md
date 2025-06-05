@@ -1,2 +1,4 @@
 # Project-Lightcone
-Card-based roguelike game where you used iconic AI figures and event cards to reach AGI and beyond
+
+Prototype for a card-based roguelike about building AGI. See `docs/design_doc.md` for the current design outline.
+This repository includes a basic Godot 4 setup and placeholder scripts following the design doc.
