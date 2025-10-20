@@ -1,0 +1,4 @@
+# Placeholder relic data
+- id: sample_relic
+  name: "Sample Relic"
+  effect: "Placeholder global bonus"

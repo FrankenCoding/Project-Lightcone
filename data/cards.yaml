@@ -1,0 +1,8 @@
+# Placeholder card data
+- id: sample_card
+  name: "Sample Card"
+  type: algorithm
+  cost: 1
+  art: "sample_card.png"
+  description: "Prototype placeholder"
+  risk_on_play: 0
